@@ -2,6 +2,9 @@
 A smart Shopping Agen, search assistant built using Python, Chainlit, and live e-commerce APIs.
 
 
+
+
+
 Features
 Shows product names, prices, and images
 product search using public APIs
